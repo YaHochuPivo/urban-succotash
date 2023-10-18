@@ -1,0 +1,14 @@
+C:\Users\eliza\source\repos\tuctuc\tuctuc\bin\Debug\net6.0\tuctuc.exe
+C:\Users\eliza\source\repos\tuctuc\tuctuc\bin\Debug\net6.0\tuctuc.deps.json
+C:\Users\eliza\source\repos\tuctuc\tuctuc\bin\Debug\net6.0\tuctuc.runtimeconfig.json
+C:\Users\eliza\source\repos\tuctuc\tuctuc\bin\Debug\net6.0\tuctuc.dll
+C:\Users\eliza\source\repos\tuctuc\tuctuc\bin\Debug\net6.0\tuctuc.pdb
+C:\Users\eliza\source\repos\tuctuc\tuctuc\obj\Debug\net6.0\tuctuc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliza\source\repos\tuctuc\tuctuc\obj\Debug\net6.0\tuctuc.AssemblyInfoInputs.cache
+C:\Users\eliza\source\repos\tuctuc\tuctuc\obj\Debug\net6.0\tuctuc.AssemblyInfo.cs
+C:\Users\eliza\source\repos\tuctuc\tuctuc\obj\Debug\net6.0\tuctuc.csproj.CoreCompileInputs.cache
+C:\Users\eliza\source\repos\tuctuc\tuctuc\obj\Debug\net6.0\tuctuc.dll
+C:\Users\eliza\source\repos\tuctuc\tuctuc\obj\Debug\net6.0\refint\tuctuc.dll
+C:\Users\eliza\source\repos\tuctuc\tuctuc\obj\Debug\net6.0\tuctuc.pdb
+C:\Users\eliza\source\repos\tuctuc\tuctuc\obj\Debug\net6.0\tuctuc.genruntimeconfig.cache
+C:\Users\eliza\source\repos\tuctuc\tuctuc\obj\Debug\net6.0\ref\tuctuc.dll
